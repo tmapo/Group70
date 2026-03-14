@@ -1,0 +1,10 @@
+.divbox {
+    background-color:  red;
+    width: 500px;
+}
+
+@media (max-width:600px){
+    .divbox{
+        width: 100%;
+    }
+}

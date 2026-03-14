@@ -1,0 +1,12 @@
+button{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    cursor: pointer;
+    transition: all ease 0.3s;
+}
+
+button:hover{
+    transform: scale(1.1);
+}
+

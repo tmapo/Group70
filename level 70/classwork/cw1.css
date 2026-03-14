@@ -1,0 +1,11 @@
+.diva{
+    height: 250px;
+    width: 250px;
+    background-color: blue;
+}
+
+@media (max-width:600px ){
+    .diva{
+        background-color: red
+    }
+} 

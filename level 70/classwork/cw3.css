@@ -1,0 +1,9 @@
+p{
+    visibility:visible;
+}
+
+@media (max-width: 480px){
+    p{
+        visibility: hidden;
+    }
+}
