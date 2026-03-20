@@ -1,5 +1,6 @@
-const img1 = document.getElementById("image")
+const box = document.getElementById("highlight")
+const button = document.getElementById("button")
 
-function Py() {
-    img1.setAttribute("src" , "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-tc8w62CNERo_OvigPV2nwd6_Mc9fSMN40g&s")
-}
+button.addEventListener('click', function()  {
+    box.classList.toggle("highlight2")
+})

@@ -1,0 +1,11 @@
+.panel{
+    height: 500px  ;
+    width: 500px;
+    background-color: navy;
+}
+
+.panel2{
+    height: 500px  ;
+    width: 500px;
+    background-color: darkred;
+}

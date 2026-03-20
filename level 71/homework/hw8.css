@@ -1,0 +1,17 @@
+.normal{
+    background-color: white;
+}
+
+.darktxt{
+    color: black;
+}
+
+
+.dark{
+    background-color: hsl(0 , 0% , 15%);
+}
+
+.normaltxt{
+    color: white;
+}
+
