@@ -1,0 +1,35 @@
+.hover1{
+    height: 500px  ;
+    width: 500px;
+    background-color: rgb(0, 0, 0);
+}
+
+.hover2{
+    height: 500px  ;
+    width: 500px;
+    background-color: purple;
+}
+
+.hover3{
+    height: 500px  ;
+    width: 500px;
+    background-color: teal;
+}
+
+.hover4{
+    height: 500px  ;
+    width: 500px;
+    background-color: brown;
+}
+
+.hover5{
+    height: 500px  ;
+    width: 500px;
+    background-color: blue;
+}
+
+.hover6{
+    height: 500px  ;
+    width: 500px;
+    background-color: green;
+}
