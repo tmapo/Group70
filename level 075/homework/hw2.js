@@ -15,5 +15,3 @@ box.addEventListener ('mouseleave' , function() {
 
     box.classList.add(colors[colorIndex])
 })
-
-
