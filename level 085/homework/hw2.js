@@ -22,15 +22,17 @@ const employee = {
     position: "Developer",
     salary: 3000,
     contact: {
+        phone: null,
         email: "luka@gmail.com",
     }
 }
+
 const { 
     name: employeeName, 
     salary: monthlySalary, 
     contact: { 
         email: workEmail, 
-        phone = "Not Provided" 
+        phone = "Not Provided"
     }, 
     ...restEmployee 
 } = employee;

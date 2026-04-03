@@ -31,4 +31,6 @@ const order = {
 
 }
 
-const {orderId , customer : {name : customerName , age} , items : {product : accessoryName,}} = order
+const {orderId , customer : {name : customerName , age} , items  : {product} } = order
+
+
